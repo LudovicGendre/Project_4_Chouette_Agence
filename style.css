@@ -299,6 +299,7 @@ a:hover {
     font-weight: normal;
     font-weight: 600;
     line-height: 44px;
+    position: absolute;
 }
 
 .navbar-brand img {
@@ -308,7 +309,7 @@ a:hover {
 }
 
 .navbar-brand img[src$=svg] {
-    min-width: 100px;
+    min-width: 40px;
 }
 
 .nav-center .navbar-brand img {
@@ -677,7 +678,7 @@ a {
 }
 
 p {
-    font-size: 11px;
+    font-size: 15px;
 }
 
 .tight-width-whitespace {
